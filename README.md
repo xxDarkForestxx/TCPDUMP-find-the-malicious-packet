@@ -1,2 +1,3 @@
 # TCPDUMP-find-the-malicious-packet
 In this cybersecurity incident, a threat actor successfully executed a brute force attack, gaining unauthorized access to a server and injecting malicious code onto the website. The injected malware was designed to redirect unsuspecting clients to a deceptive typo squatter site closely resembling the legitimate one. Through meticulous packet analysis, I meticulously dissected each packet, ultimately pinpointing the specific transmission responsible for delivering the malicious payload onto the targeted host.
+PNGs 5, 6, and 7 provide a color-coded breakdown of the TCPDUMP packets depicted in PNG3.
